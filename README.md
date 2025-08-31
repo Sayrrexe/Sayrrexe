@@ -22,16 +22,14 @@
 
 > 📦 2.0 kB Used in GitHub's Storage 
  > 
-> 🏆 25 Contributions in the Year 2025
+> 🏆 27 Contributions in the Year 2025
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
 > 📜 7 Public Repositories 
  > 
 > 🔑 5 Private Repositories 
  > 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sayrrexe&show_icons=true&theme=radical)
 
 <!--END_SECTION:waka-->
 
