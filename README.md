@@ -8,7 +8,7 @@
 
 ---
 
-## 💻 Tech Stack
+## 💻 Технологии
 - **Languages:** Python 🐍 | JavaScript ⚡
 - **Frameworks:** Django | FastAPI | Flask
 - **Databases:** PostgreSQL | Redis
@@ -31,7 +31,6 @@
 > 🔑 5 Private Repositories 
  > 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayrrexe&layout=compact)](https://github.com/sayrrexe)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sayrrexe&show_icons=true&theme=radical)
 
 <!--END_SECTION:waka-->
