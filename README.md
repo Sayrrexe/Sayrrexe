@@ -8,24 +8,12 @@
 
 ---
 
-## 🛠️ Технологический стек
-
-| **Основные технологии**                                                                                       | **Уровень владения** |
-| ------------------------------------------------------------------------------------------------------------- | -------------------- |
-| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)        | 🟢 Продвинутый       |
-| ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)           | 🟢 Продвинутый       |
-| ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  | 🟡 Средний           |
-| ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  | 🟡 Средний           |
-| ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)     | 🟡 Средний           |
-| ![Celery](https://img.shields.io/badge/celery-%23a9cc54.svg?style=for-the-badge&logo=celery&logoColor=ddf4a4) | 🟡 Средний           |
-
-### Дополнительные технологии
-
-- **Aiogram** — разработка ботов для Telegram.
-- **HTML/CSS** — создание структур и стилей.
-- **JavaScript** — добавление интерактивности на стороне клиента.
-- **PostgreSQL** — опыт работы с реляционными базами данных.
-- **Docker** — базовые навыки контейнеризации.
+## 💻 Tech Stack
+- **Languages:** Python 🐍 | JavaScript ⚡
+- **Frameworks:** Django | FastAPI | Flask
+- **Databases:** PostgreSQL | Redis
+- **Messaging:** Kafka
+- **Tools:** Docker | Git | VS Code | Vim
 
 ---
 
@@ -42,6 +30,9 @@
  > 
 > 🔑 5 Private Repositories 
  > 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayrrexe&layout=compact)](https://github.com/sayrrexe)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sayrrexe&show_icons=true&theme=radical)
 
 <!--END_SECTION:waka-->
 
