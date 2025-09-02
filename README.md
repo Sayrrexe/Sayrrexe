@@ -9,7 +9,7 @@
 ---
 
 ## 💻 Технологии
-- **Languages:** Python 🐍 | JavaScript ⚡
+- **Languages:** Python | Bash 
 - **Frameworks:** Django | FastAPI | Flask
 - **Databases:** PostgreSQL | Redis
 - **Messaging:** Kafka
