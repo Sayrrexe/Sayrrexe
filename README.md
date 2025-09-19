@@ -20,7 +20,7 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 2.2 kB Used in GitHub's Storage 
+> 📦 2.3 kB Used in GitHub's Storage 
  > 
 > 🏆 29 Contributions in the Year 2025
  > 
