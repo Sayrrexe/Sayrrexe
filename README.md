@@ -17,23 +17,6 @@
 
 ---
 
-<!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
-
-> 📦 3.8 kB Used in GitHub's Storage 
- > 
-> 🏆 97 Contributions in the Year 2025
- > 
-> 💼 Opted to Hire
- > 
-> 📜 6 Public Repositories 
- > 
-> 🔑 10 Private Repositories 
- > 
-
-<!--END_SECTION:waka-->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sayrrexe&show_icons=true&theme=dark)
-
 ## 📫 Связаться со мной
 
 - ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) — [@wiseprog](https://t.me/wiseprog)
